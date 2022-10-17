@@ -1,9 +1,9 @@
 ---
 title: "My First Post"
 date: 2022-10-17T19:00:13+09:00
-draft: true
+draft: false
 ---
-### どうすればいい
+### Test Page
 ```
 this is test
 ```
