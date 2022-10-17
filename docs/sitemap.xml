@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://banananbo.github.io/memo/</loc>
+    <loc>https://banananbo.github.io/hugosite/</loc>
     <lastmod>2022-10-17T19:00:13+09:00</lastmod>
   </url><url>
-    <loc>http://banananbo.github.io/memo/posts/my-first-post/</loc>
+    <loc>https://banananbo.github.io/hugosite/posts/my-first-post/</loc>
     <lastmod>2022-10-17T19:00:13+09:00</lastmod>
   </url><url>
-    <loc>http://banananbo.github.io/memo/posts/</loc>
+    <loc>https://banananbo.github.io/hugosite/posts/</loc>
     <lastmod>2022-10-17T19:00:13+09:00</lastmod>
   </url><url>
-    <loc>http://banananbo.github.io/memo/categories/</loc>
+    <loc>https://banananbo.github.io/hugosite/categories/</loc>
   </url><url>
-    <loc>http://banananbo.github.io/memo/tags/</loc>
+    <loc>https://banananbo.github.io/hugosite/tags/</loc>
   </url>
 </urlset>

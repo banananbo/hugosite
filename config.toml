@@ -1,4 +1,4 @@
-baseURL = 'http://banananbo.github.io/memo/'
+baseURL = 'https://banananbo.github.io/hugosite/'
 languageCode = 'ja'
 title = 'frogsmemo-'
 theme = "mainroad"
